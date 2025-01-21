@@ -1,6 +1,6 @@
 # Statistical-Inference-with-Python
 
-## Master statistics with serious practical implementation in Python
+## Master statistics with serious practical implementation in Python!
 
 <hr>
 
